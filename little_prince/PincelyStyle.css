@@ -7,15 +7,15 @@
     margin: 0 auto;
 }
 
-#underline{
+.underline{
     text-decoration: underline;
 }
 
-#highlight{
+.highlight{
     background-color: orange;
 }
 
-#quote{
+.quote{
     color: red;
     font-weight: bold;
 }
